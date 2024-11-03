@@ -170,7 +170,7 @@ O projeto (Spring Boot com Java) e os testes com RestAssured deverão ser desenv
 
 
 <h3>Lnkedin:</h3>
-<p>https://www.linkedin.com/in/anasantana-dev-java-spring/</P>
+<p>https://www.linkedin.com/in/anasantana/</P>
 
 
 
